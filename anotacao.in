@@ -1,0 +1,16 @@
+   C = Carga da mochila
+   N = Numero de itens
+   P = Peso de cada item
+   V = Valor de cada item
+
+C = 13
+N = 4
+item 1 --> P = 5 -> V = 5
+item 2 --> P = 6 -> V = 4
+item 3 --> P = 4 -> V = 7
+item 4 --> P = 4 -> V = 7
+
+
+stdin = entrada padão(teclado)
+stdout = saída padrão(monitor)
+stderr = saída de erros padrão(log)
